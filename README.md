@@ -1,27 +1,24 @@
-# FormLab
+# Formulários Dinâmicos com ReactForms e Angular
+Este repositório contém exemplos de como criar formulários dinâmicos utilizando o pacote ReactForms junto com o framework Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+## Pré-requisitos
+- Node.js
+- Angular CLI
 
-## Development server
+## Instalação
+1. Clone este repositório: `git clone https://github.com/thiagosartor/form-dynamic.git`
+2. Entre na pasta do repositório: `cd your-repo`
+3. Instale as dependências: `npm install`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Como usar
+Os exemplos de formulários dinâmicos encontram-se nas pastas `src/app/`. Cada pasta contém um exemplo diferente mostrando como utilizar o ReactForms junto com o Angular para criar formulários dinâmicos.
 
-## Code scaffolding
+Para executar os exemplos, execute o comando `ng serve` na pasta raiz do projeto e acesse `http://localhost:4200/`.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Documentação
+Para mais informações sobre como utilizar o ReactForms com o Angular, consulte a [documentação oficial](https://github.com/react-hook-form/react-hook-form/blob/main/docs/api/Controller.md)
 
-## Build
+## Contribuição
+Sinta-se à vontade para contribuir com este repositório enviando pull requests ou abrindo issues para discutir novas ideias.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Good coding!
